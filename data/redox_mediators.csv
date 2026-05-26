@@ -1,0 +1,11 @@
+number,name,abbreviation,molecular_formula,smiles,E_ox_V_vs_Li,reference
+1,"N,N,N',N'-Tetramethyl-p-phenylenediamine",TMPD,C10H16N2,CN(C)C1=CC=C(C=C1)N(C)C,3.35,Ref.1
+2,10-Methylphenothiazine,MPT,C13H11NS,CN1C2=CC=CC=C2SC3=CC=CC=C31,3.67,"Ref.6,8"
+3,"2,2,6,6-Tetramethylpiperidinyl-1-oxide",TEMPO,C9H18NO,CC1(CCCC(N1[O])(C)C)C,3.74,"Ref.5,6,7"
+4,"4-Methoxy-2,2,6,6-tetramethylpiperidinyl-1-oxyl",Me-TEMPO,C10H20NO2,COC1CC(C)(C)N([O])C(C)(C)C1,3.76,Ref.5
+5,2-Azaadamantane-N-oxyl,AZADO,C9H14NO,C1C2CC3CC1CC(C2)N3[O],3.65,Ref.5
+6,1-Methyl-2-aza-adamantane-N-oxyl,Me-AZADO,C10H16NO,CC12CC3CC(CC(C3)N1[O])C2,3.60,Ref.5
+7,"Tris[4-(diethylamino)phenyl]amine",TDPA,C30H42N4,CCN(CC)c1ccc(N(c2ccc(N(CC)CC)cc2)c3ccc(N(CC)CC)cc3)cc1,3.10,Ref.4
+8,"5,10-Dimethyldihydrophenazine",DMPZ,C14H14N2,CN1C2=CC=CC=C2N(C)C3=CC=CC=C13,3.25,Ref.3
+9,"1,5-Naphthalenediamine",NDA,C10H10N2,C1=CC2=C(C=CC=C2N)C(=C1)N,3.30,Ref.2
+10,1-Phenylpyrrolidine,PPD,C10H13N,C1CCN(C1)C2=CC=CC=C2,4.00,Ref.2

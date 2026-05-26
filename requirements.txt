@@ -1,0 +1,14 @@
+# Pinned dependencies used to produce the results in the manuscript.
+# These versions reproduce R^2 = 0.538 and MAE = 0.129 V on the
+# leave-one-out cross-validation of the 10 N-containing redox mediators.
+#
+# Random forest predictions and feature-importance rankings are sensitive
+# to the underlying scikit-learn and RDKit versions when n is small;
+# we therefore pin them explicitly.
+
+rdkit==2025.03.6
+scikit-learn>=1.3,<2.0
+numpy>=1.24,<3.0
+pandas>=2.0,<3.0
+scipy>=1.10,<2.0
+matplotlib>=3.7,<4.0
